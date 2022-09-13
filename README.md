@@ -8,4 +8,4 @@
 
 ## Статус workflow
 
-![example workflow](https://github.com/Lebedev-github/yamdb_final/blob/master/.github/workflows/yamdb_workflow.yml/badge.svg)
+[![yamdb workflow](https://github.com/Lebedev-github/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/Lebedev-github/yamdb_final/actions/workflows/yamdb_workflow.yml)
