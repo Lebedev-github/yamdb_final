@@ -9,3 +9,14 @@
 ## Статус workflow
 
 [![yamdb workflow](https://github.com/Lebedev-github/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/Lebedev-github/yamdb_final/actions/workflows/yamdb_workflow.yml)
+
+## Проверить работу web-приложения можно по следующим ссылкам
+
+### Главная страница
+http://51.250.19.9/api/v1/
+
+### Страница входа в админку
+http://51.250.19.9/admin
+
+### Страница просмотра доступных API
+http://51.250.19.9/redoc
